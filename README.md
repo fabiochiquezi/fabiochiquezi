@@ -2,6 +2,8 @@
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.chiquezi.com/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5519983127035)
 
+Personal Project: https://vexx.chiquezi.com/
+
 
 ![Fábio Chiquezi GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiochiquezi&show_icons=true&theme=radical)
 
