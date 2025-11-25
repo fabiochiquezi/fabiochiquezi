@@ -1,8 +1,5 @@
 ### Hello, I'm Fábio Chiquezi ✌️
 
-
-![Fábio Chiquezi GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiochiquezi&show_icons=true&theme=radical)
-
 ## Technologies I use in my daily life
 
 <div style="display: inline_block">
